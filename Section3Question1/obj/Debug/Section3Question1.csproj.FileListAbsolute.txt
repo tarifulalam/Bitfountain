@@ -1,0 +1,8 @@
+D:\task\Bitfountain\Section3Question1\bin\Debug\Section3Question1.exe.config
+D:\task\Bitfountain\Section3Question1\bin\Debug\Section3Question1.exe
+D:\task\Bitfountain\Section3Question1\bin\Debug\Section3Question1.pdb
+D:\task\Bitfountain\Section3Question1\obj\Debug\Section3Question1.csproj.AssemblyReference.cache
+D:\task\Bitfountain\Section3Question1\obj\Debug\Section3Question1.csproj.SuggestedBindingRedirects.cache
+D:\task\Bitfountain\Section3Question1\obj\Debug\Section3Question1.csproj.CoreCompileInputs.cache
+D:\task\Bitfountain\Section3Question1\obj\Debug\Section3Question1.exe
+D:\task\Bitfountain\Section3Question1\obj\Debug\Section3Question1.pdb

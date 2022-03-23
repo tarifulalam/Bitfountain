@@ -1,0 +1,17 @@
+D:\task\Bitfountain\HtmlChecker\bin\Debug\net6.0\HtmlChecker.exe
+D:\task\Bitfountain\HtmlChecker\bin\Debug\net6.0\HtmlChecker.deps.json
+D:\task\Bitfountain\HtmlChecker\bin\Debug\net6.0\HtmlChecker.runtimeconfig.json
+D:\task\Bitfountain\HtmlChecker\bin\Debug\net6.0\HtmlChecker.dll
+D:\task\Bitfountain\HtmlChecker\bin\Debug\net6.0\HtmlChecker.pdb
+D:\task\Bitfountain\HtmlChecker\obj\Debug\net6.0\HtmlChecker.csproj.AssemblyReference.cache
+D:\task\Bitfountain\HtmlChecker\obj\Debug\net6.0\HtmlChecker.GeneratedMSBuildEditorConfig.editorconfig
+D:\task\Bitfountain\HtmlChecker\obj\Debug\net6.0\HtmlChecker.AssemblyInfoInputs.cache
+D:\task\Bitfountain\HtmlChecker\obj\Debug\net6.0\HtmlChecker.AssemblyInfo.cs
+D:\task\Bitfountain\HtmlChecker\obj\Debug\net6.0\HtmlChecker.csproj.CoreCompileInputs.cache
+D:\task\Bitfountain\HtmlChecker\obj\Debug\net6.0\HtmlChecker.dll
+D:\task\Bitfountain\HtmlChecker\obj\Debug\net6.0\refint\HtmlChecker.dll
+D:\task\Bitfountain\HtmlChecker\obj\Debug\net6.0\HtmlChecker.pdb
+D:\task\Bitfountain\HtmlChecker\obj\Debug\net6.0\HtmlChecker.genruntimeconfig.cache
+D:\task\Bitfountain\HtmlChecker\obj\Debug\net6.0\ref\HtmlChecker.dll
+D:\task\Bitfountain\HtmlChecker\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\task\Bitfountain\HtmlChecker\obj\Debug\net6.0\HtmlChecker.csproj.CopyComplete
